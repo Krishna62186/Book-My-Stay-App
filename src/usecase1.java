@@ -1,14 +1,4 @@
-/**
- * UseCase5BookingRequestQueue
- *
- * This class demonstrates how booking requests are collected and managed
- * using a Queue to ensure First-Come-First-Served (FIFO) processing.
- *
- * No inventory updates or room allocation occur at this stage.
- *
- * @author YourName
- * @version 5.0
- */
+
 
 import java.util.LinkedList;
 import java.util.Queue;
